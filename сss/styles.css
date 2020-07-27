@@ -260,6 +260,7 @@ body {
 .features-icon {
   padding: 25px 102px;
   width: 270px;
+  margin-bottom: 30px;
 
   border-radius: 4px;
   background-color: var(--portfolio-button-color);
